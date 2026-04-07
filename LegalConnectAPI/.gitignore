@@ -1,0 +1,12 @@
+# frontend
+node_modules
+dist
+build
+
+# backend (.NET)
+bin/
+obj/
+.vs/
+
+# common
+.env
